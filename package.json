@@ -1,0 +1,25 @@
+{
+  "name": "node-mongodb",
+  "version": "1.0.0",
+  "description": "Node Mongodb Example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "author": "Deepika Kumari",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "mongodb": "^3.0.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepikakumari97/node-mongodb.git"
+  },
+  "bugs": {
+    "url": "https://github.com/deepikakumari97/node-mongodb/issues"
+  },
+  "homepage": "https://github.com/deepikakumari97/node-mongodb#readme"
+}
